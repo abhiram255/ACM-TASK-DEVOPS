@@ -1,0 +1,3 @@
+image:
+  repository: helm-demo
+  tag: v2
